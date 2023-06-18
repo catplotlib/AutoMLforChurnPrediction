@@ -1,8 +1,8 @@
 # AutoML for Churn Prediction
-This repository contains the AutoML for Churn Prediction project. It utilizes Automated Machine Learning (AutoML) techniques to predict customer churn in a telecom company. Customer churn refers to the situation when a customer ceases their relationship with a company. Accurate prediction of churn can help businesses to develop effective customer retention strategies and minimize loss.
+This repository contains the AutoML for Churn Prediction project. It utilizes Automated Machine Learning (AutoML) techniques to predict customer churn in an ecom company. Customer churn refers to the situation when a customer ceases their relationship with a company. Accurate prediction of churn can help businesses to develop effective customer retention strategies and minimize loss.
 
 # Project Overview
-Churn prediction is a common use case for Machine Learning in the telecom industry, and this project showcases how to automate the process using AutoML. The dataset we used comes from a telecom company and includes customer demographic and usage information. Using this data, the model predicts whether a customer is likely to stop using the company's services.
+Churn prediction is a common use case for Machine Learning in the ecom industry, and this project showcases how to automate the process using AutoML. The dataset we used comes from an ecom company and includes customer demographic and usage information. Using this data, the model predicts whether a customer is likely to stop using the company's services.
 
 # Getting Started
 ## Prerequisites
